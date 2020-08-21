@@ -9,3 +9,7 @@
 * Filtered data by type of crime and year
 * Filtered data by bias
 
+### 2020-08.20
+* Finished filter by crime and year
+* Need to build dataframe with crime counts by year
+
