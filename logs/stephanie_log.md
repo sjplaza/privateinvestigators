@@ -13,3 +13,7 @@
 * Finished filter by crime and year
 * Need to build dataframe with crime counts by year
 
+### 2020-08.22
+* Changed code to filter by bias count for year
+* Created bar charts
+* Need to start on presentation slides
