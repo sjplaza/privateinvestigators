@@ -17,3 +17,9 @@
 * Changed code to filter by bias count for year
 * Created bar charts
 * Need to start on presentation slides
+
+### 2020-08.24
+* Finished code for bias description, offender type, and victim type
+* Finished bar and pie charts
+* Pushed screenshots of databases
+* Working on preparing slides for presentation
